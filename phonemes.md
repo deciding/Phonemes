@@ -1,3 +1,49 @@
+### CMUDict
+
+```shell
+Phoneme Phonetic Symbols Example Translation
+------- ---------------- ------- -----------
+AA	ɒ odd     AA D
+AE	æ at	AE T
+AH	ʌ hut	HH AH T
+AO	ɔː  ought	AO T
+AW	aʊ  cow	K AW
+AY	aɪ  hide	HH AY D
+B 	b be	B IY
+CH	ʧ cheese	CH IY Z
+D 	d dee	D IY
+DH	ð thee	DH IY
+EH	ɛ Ed	EH D
+ER	ɜː/ɜr/ər  hurt	HH ER T
+EY	eɪ  ate	EY T
+F 	f fee	F IY
+G 	g green	G R IY N
+HH	h he	HH IY
+IH	ɪ it	IH T
+IY	i eat	IY T
+JH	ʤ gee	JH IY
+K 	k key	K IY
+L 	l lee	L IY
+M 	m me	M IY
+N 	n knee	N IY
+NG	ŋ ping	P IH NG
+OW	oʊ  oat	OW T
+OY	ɔɪ  toy	T OY
+P 	p pee	P IY
+R 	r read	R IY D
+S 	s sea	S IY
+SH	ʃ she	SH IY
+T 	t tea	T IY
+TH	θ theta	TH EY T AH
+UH	ʊ hood	HH UH D
+UW	u two	T UW
+V 	v vee	V IY
+W 	w we	W IY
+Y 	y yield	Y IY L D
+Z 	z zee	Z IY
+ZH	ʒ seizure	S IY ZH ER
+```
+
 ### pinyin_initial
 
 ```shell
@@ -131,50 +177,4 @@ W W
 Y Y
 Z Z
 ZH X
-```
-
-###CMUDict
-
-```shell
-Phoneme Phonetic Symbols Example Translation
-------- ---------------- ------- -----------
-AA	ɒ odd     AA D
-AE	æ at	AE T
-AH	ʌ hut	HH AH T
-AO	ɔː  ought	AO T
-AW	cow	K AW
-AY	hide	HH AY D
-B 	be	B IY
-CH	cheese	CH IY Z
-D 	dee	D IY
-DH	thee	DH IY
-EH	Ed	EH D
-ER	hurt	HH ER T
-EY	ate	EY T
-F 	fee	F IY
-G 	green	G R IY N
-HH	he	HH IY
-IH	it	IH T
-IY	eat	IY T
-JH	gee	JH IY
-K 	key	K IY
-L 	lee	L IY
-M 	me	M IY
-N 	knee	N IY
-NG	ping	P IH NG
-OW	oat	OW T
-OY	toy	T OY
-P 	pee	P IY
-R 	read	R IY D
-S 	sea	S IY
-SH	she	SH IY
-T 	tea	T IY
-TH	theta	TH EY T AH
-UH	hood	HH UH D
-UW	two	T UW
-V 	vee	V IY
-W 	we	W IY
-Y 	yield	Y IY L D
-Z 	zee	Z IY
-ZH	seizure	S IY ZH ER
 ```
